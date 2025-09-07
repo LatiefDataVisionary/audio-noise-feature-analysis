@@ -1,1 +1,10 @@
+# Core libraries for data analysis and audio processing
+numpy
+matplotlib
+librosa
+jupyterlab
+
+# Optional: for specific plotting styles or functionalities
+seaborn
+pandas
 
