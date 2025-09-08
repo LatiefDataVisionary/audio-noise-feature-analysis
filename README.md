@@ -155,7 +155,7 @@ Follow these steps to replicate the analysis on your own machine.
 
 ### **10. Author**
 
-*   **[Nama Anda]** - Feel free to connect! [[GitHub Profile]](https://github.com/your-username) | [[LinkedIn Profile]](https://www.linkedin.com/in/your-profile/)
+*   **Lathif Ramadhan** - Feel free to connect! [[GitHub Profile]](https://github.com/LatiefDataVisionary) | [[LinkedIn Profile]](https://www.linkedin.com/in/lathiframadhan/)
 
 ---
 
